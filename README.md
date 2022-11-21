@@ -1,22 +1,22 @@
 # SBOM V1.4
 
-- 'pkg install git'
+- pkg install git
 
 
 
-- 'pkg install python'
+- pkg install python
 
 
 
-- 'pip install requests'
+- pip install requests
 
 
 
-- 'git clone https://github.com/SIFAT-007/SBOM'
+- git clone https://github.com/SIFAT-007/SBOM
 
 
 
-- 'cd SBOM'
+- cd SBOM
 
 
-- 'python SBOM.py'
+- python SBOM.py
