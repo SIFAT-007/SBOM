@@ -1,4 +1,4 @@
-# SBOM V1.5
+# SBOM V1.6
 
 - pkg install git
 
